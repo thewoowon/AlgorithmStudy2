@@ -3,7 +3,7 @@
 ## Hello Guys!!
 #### 😊😊😊😊😊😊😊😊
 #### 두번째 알고리즘 공부 커밋입니다.
-#### The second commit for algorithm study
+#### The second commit for algorithm study and coding test
 
 ```
 #include <iostream>
